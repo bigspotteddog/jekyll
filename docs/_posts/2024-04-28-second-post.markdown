@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Second Post"
-date:   2024-04-29 00:32:30 -0700
+date:   2024-04-28 16:32:30 -0700
 categories: jekyll update
 ---
 This is the second post of this blog. It is a totally free blog which is great. It was complicated to set up and I do not think a non-technical person could do it easily.
