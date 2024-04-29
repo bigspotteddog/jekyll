@@ -29,7 +29,10 @@ url: "https://bigspotteddog.github.io" # the base hostname & protocol for your s
 twitter_username: jekyllrb
 github_username:  jekyll
 
-theme: jekyll-theme-architect
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
